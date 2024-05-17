@@ -1,6 +1,21 @@
-# Time-Sleep-6-Is-All-You-Need
+# Time-Sleep-6-Is-All-You-Need 😴
 
-本项目参考了[JadyXuan的项目](https://github.com/JadyXuan/NTTS), 1:1 复现了华为发布会的`time.sleep(6)`代码。
+🔥 **可控延时大模型：小米小爱？不，我们不需要等待！** 🚀
+
+✨ **厌倦了AI的"秒回"？** 🐢 现在，有了可控延时大模型，你可以像华为一样，优雅地掌控AI的"思考"节奏！⏰
+
+💡 **为什么选择可控延时大模型？**
+
+* **精准控制：**  像 time.sleep(6) 一样精确设定延时，不多一秒，不少一秒。 🎯
+* **灵活应用：**  适用于各种场景，无论是对话、推理还是创作，都能游刃有余。🤹‍♀️
+* **用户体验升级：**  模拟人类思考，让AI的回答更自然，更有"人味儿"。😊
+* **即刻体验：**  无需等待，现在就来感受可控延时大模型的魅力吧！🎉
+
+
+🔥 **还在等什么？**  快来体验可控延时大模型，让你的 AI 应用更上一层楼！🚀
+
+**致敬经典：**  本项目灵感源自[JadyXuan的项目](https://github.com/JadyXuan/NTTS)，1:1 复现了华为发布会的`time.sleep(6)`代码。
+
 
 <!-- PROJECT SHIELDS -->
 
@@ -13,7 +28,7 @@
 
 ## 目录
 
-- [Time-Sleep-6-Is-All-You-Need](#time-sleep-6-is-all-you-need)
+- [Time-Sleep-6-Is-All-You-Need 😴](#time-sleep-6-is-all-you-need-)
   - [目录](#目录)
     - [上手指南](#上手指南)
           - [开发前的配置要求](#开发前的配置要求)
