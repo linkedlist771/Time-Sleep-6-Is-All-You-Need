@@ -13,17 +13,17 @@
 
 ## 目录
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
-
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [贡献](#贡献)
-
-
-- [作者](#作者)
+- [Time-Sleep-6-Is-All-You-Need](#time-sleep-6-is-all-you-need)
+  - [目录](#目录)
+    - [上手指南](#上手指南)
+          - [开发前的配置要求](#开发前的配置要求)
+          - [**安装步骤**](#安装步骤)
+    - [文件目录说明](#文件目录说明)
+    - [部署](#部署)
+    - [使用到的框架](#使用到的框架)
+    - [贡献](#贡献)
+    - [作者](#作者)
+    - [版权说明](#版权说明)
 
 
 ### 上手指南
@@ -38,7 +38,7 @@
 1. Clone the repo
 
 ```sh
-git clone https://github.com/linkedlist771/LeagueObjectDetector-MouseFollower.git
+git clone https://github.com/linkedlist771/Time-Sleep-6-Is-All-You-Need.git
 ```
 
 2. Install requirements
